@@ -1,0 +1,53 @@
+﻿  coeff.cpp
+coeff.cpp(85): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(85): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(156): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(156): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(227): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(227): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(297): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(297): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(366): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(366): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(434): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(434): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(504): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(504): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(573): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(573): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(642): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(642): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(712): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(712): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+coeff.cpp(755): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+coeff.cpp(755): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  fft.cpp
+fft.cpp(48): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+fft.cpp(103): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+fft.cpp(112): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+fft.cpp(119): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+fft.cpp(151): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+fft.cpp(152): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+fft.cpp(153): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+fft.cpp(145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: Siehe Deklaration von "fopen"
+  fft12.cpp
+fft12.cpp(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: Siehe Deklaration von "fopen"
+  fir.cpp
+  iqcapture.cpp
+iqcapture.cpp(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: Siehe Deklaration von "strcpy"
+iqcapture.cpp(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: Siehe Deklaration von "strcpy"
+iqcapture.cpp(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: Siehe Deklaration von "strcpy"
+iqcapture.cpp(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: Siehe Deklaration von "strcpy"
+  meanvalue.cpp
+meanvalue.cpp(13): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  sound_win.cpp
+  Code wird generiert.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  iqcapture.vcxproj -> E:\source\bananapi\iqcapture\iqcapture\Release\iqcapture.exe
