@@ -14,6 +14,9 @@ Compilation:  make
 
 the program is called:  iqcapture
 
+There are project files for Visual Studio 2015 which I use just for editing. But the program runs currently under Linux only.
+It is prepared for Windows but the sound card capture/playback routines are currently missing.
+
 Short description:
 ==================
 
