@@ -1,6 +1,0 @@
-﻿iqcapture.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void __cdecl init_soundcard(void)" (?init_soundcard@@YAXXZ)" in Funktion "_main".
-iqcapture.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void __cdecl exit_soundcard(void)" (?exit_soundcard@@YAXXZ)" in Funktion "_main".
-iqcapture.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void __cdecl capture1s(short *)" (?capture1s@@YAXPAF@Z)" in Funktion ""void __cdecl runloop(void)" (?runloop@@YAXXZ)".
-iqcapture.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void __cdecl write_wavfile(void)" (?write_wavfile@@YAXXZ)" in Funktion ""void __cdecl runloop(void)" (?runloop@@YAXXZ)".
-iqcapture.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void __cdecl playsound(short *,int)" (?playsound@@YAXPAFH@Z)" in Funktion ""void __cdecl runloop(void)" (?runloop@@YAXXZ)".
-E:\source\bananapi\iqcapture\iqcapture\Debug\iqcapture.exe : fatal error LNK1120: 5 nicht aufgelöste Externe
