@@ -27,6 +27,7 @@ Additionally the full spectrum from 0 - 23.500 Hz is written to a file which can
 The original samples are also written to a file and can be used for a spectrum display.
 
 For my application as a WSPR receiver the program does some more actions:
+
 6. re-sample (decimate) the demodulated stream to 12000 samples/s which is required by K9AN's/K1JT's WSPR decoder. The result is written into a WAV file.
 
 
